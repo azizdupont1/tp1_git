@@ -1,0 +1,39 @@
+Indicateurs Généraux : home page ::::: ok
+Total des garanties
+Garanties actives
+Garanties expirées/résiliées
+Clients corporate
+
+Indicateurs Temporels :home page :::::ok
+Échéances dans 3 mois
+Garanties renouvelées (30j)
+Durée moyenne garantie
+Délai moyen saisie→mise en place
+
+Alerte et risques : home page :::::: no ok
+Alertes en cours
+En renouvellement
+Expirées non renouvelées
+Engagements en défaut
+situation des garantie camembert()
+situation des engagements camembert
+
+indicateur client : home page
+top 10 des clients avec le plus de gaanties :::::no ok
+top 10 des cleints avec les montant de garantie les plus eleves
+
+
+Indicateurs Financiers : menu ::::::ok
+Montant total des garanties
+Montant moyen par garantie
+Montant engagements couverts
+Ratio garantie/engagement
+
+Indicateurs par Partenaire (Assureur) : menu  ::::: ok
+montant total garanti par assureur
+nbr de garantie par asureur
+tx de renouvellement par assureur
+
+Réévaluations  : menu     ::::::::::  ok
+Garanties réévaluées (30j)
+Montant moyen réévaluation
